@@ -1,0 +1,82 @@
+/* 在CSS裡跟設定無關的都必須註解 */
+
+/* CSS選擇器 */
+
+header {
+    background-color: #563e3e;
+    padding: 20px;
+}
+
+.important-title {
+    /* 屬性 */
+    font-size: 42px;
+    text-align: start;
+    color: #cbb5b5;
+}
+
+.side-title {
+    color: #cbb5b5;
+}
+
+.author {
+    text-align: end;
+    color: #cbb5b5;
+
+}
+
+.section-title {
+    color: #7a7d7cd9;
+    font-size: 36px;
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 1em;
+}
+
+p {
+    font-size: 16px;
+}
+
+.section-1 {
+    background-color: #be9898;
+}
+
+blockquote {
+    margin: 0 0 1em;
+    padding: 1em;
+    background-color: transparent;
+    border-left: 5px solid #563e3e;
+}
+
+blockquote p {
+    margin: 0;
+    font-size: 16px;
+}
+
+
+.section-2 {
+    background-color: #8a6161;
+}
+
+.section-3 {
+    background-color: #be9898;
+}
+
+.section-4 {
+    background-color: #8a6161;
+}
+
+.section-5 {
+    background-color: #563e3e;
+}
+
+.info {
+    font-size: 12px;
+    text-align: start;
+    color: #cbb5b5;
+}
+
+@media (max-width: 1070px) {
+    
+}
